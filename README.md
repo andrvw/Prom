@@ -4,4 +4,4 @@
   
 - Don't be afraid and shoot your shot... ( ๑ ˃̵ᴗ˂̵)و
 
-- Created With ❤️
+- Created with ❤️
