@@ -1,7 +1,7 @@
 # Ask out your special someone!
 
-- Meant for Prom
+- Meant for that one special day!
   
-- Don't be afraid and shoot your shot! ( ๑ ˃̵ᴗ˂̵)و
+- Don't be afraid and shoot your shot... ( ๑ ˃̵ᴗ˂̵)و
 
-- Created With ❤️ ('24)
+- Created With ❤️
