@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Mali:wght@300;400;500;600&display=swap");
+
+body {
+  font-family: "Mali", sans-serif;
+  background-color: #ffffff;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.valentine-image {
+  width: 300px; /* Adjust the width as needed */
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+#yesButton {
+  background-color: #2ed177;
+}
+
+#noButton {
+  background-color: #df2033;
+}
+
+#yesButton:hover {
+  background-color: #2ed177;
+}
+
+#noButton:hover {
+  background-color: #df2033;
+}
+
+#responseMessage {
+  margin-top: 20px;
+}
