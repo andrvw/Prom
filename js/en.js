@@ -10,16 +10,16 @@ document.addEventListener("DOMContentLoaded", function () {
         "Are you sure?",
         "Are you tippity sure?",
         "Third times a charm?",
-        "Can you please reconsider? :c",
+        "Can you please reconsider it? :(",
         "You don't believe in multiple chances?",
         "You're being so cold right now...",
         "Maybe we can talk about it together?",
-        "What about now?",
-        "You're misclicking awfully a lot...",
-        "Now's the right time?",
-        "Give me a chance please?",
+        "What about now pookie?",
+        "You're misclicking a lot...",
+        "Is it now the right time?",
+        "Give me a chance?",
         "Pretty please?",
-        "One last time, pretty pretty please?",
+        "One last time, pretty itty please?",
     ];
 
     let questionIndex = 0;
