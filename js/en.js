@@ -41,9 +41,9 @@ document.addEventListener("DOMContentLoaded", function () {
         questionIndex = (questionIndex + 1) % questions.length;
 
         if (clickedNo) {
-            buttonSize += 35; // Increase linearly by 10 pixels
-            noButton.style.width = buttonSize + "px";
-            noButton.style.height = buttonSize + "px";
+            buttonSize += 20; // Increase linearly by 10 pixels
+            yesButton.style.width = buttonSize + "px";
+            yesButton.style.height = buttonSize + "px";
 
             // Calculate the new position to keep the button centered
             const offsetX = (buttonSize - 1000) / 2;
