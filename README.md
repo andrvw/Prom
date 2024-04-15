@@ -2,6 +2,6 @@
 
 - Meant for Prom
   
-- Good luck! ( ๑ ˃̵ᴗ˂̵)و
+- Don't be afraid and shoot your shot! ( ๑ ˃̵ᴗ˂̵)و
 
-- Created With ❤️ '24
+- Created With ❤️ ('24)
