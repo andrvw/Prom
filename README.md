@@ -1,4 +1,4 @@
-# Website to ask out your crush or loved one for Prom!
+# Prom Website
 
 - Ask them out with this cute website!
 - Class of 2024
