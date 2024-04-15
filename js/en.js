@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
     let clickedNo = false; // Flag to track if "No" button has been clicked
 
     yesButton.addEventListener("click", function () {
-        responseMessage.innerText = "Yippie! See you soon pookie... ^_^";
+        responseMessage.innerText = "Yippie! See you soon pookie... 😊";
         yesButton.style.display = "none";
         noButton.style.display = "none";
         valentineText.style.display = "none";
