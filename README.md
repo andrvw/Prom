@@ -1,5 +1,5 @@
-# Prom Website
+# Ask out your special someone!
 
-- Ask them out with this cute website!
-- Class of 2024
+- Meant for Prom
 - Good luck! ( ๑ ˃̵ᴗ˂̵)و 
+- Created With ❤️ '24
