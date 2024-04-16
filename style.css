@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat:500");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:600");
 
 body {
   font-family: "Montserrat", sans-serif;
@@ -48,15 +48,4 @@ button {
 
 #responseMessage {
   margin-top: 20px;
-}
-
-/* Media Query for iPhones */
-@media screen and (max-width: 600px) {
-  .valentine-image {
-    width: 90%; /* Adjust the width for smaller screens */
-  }
-
-  button {
-    font-size: 14px; /* Decrease font size for smaller screens */
-  }
 }
