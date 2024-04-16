@@ -15,7 +15,8 @@ body {
 }
 
 .valentine-image {
-  width: 300px; /* Adjust the width as needed */
+  width: 80%; /* Adjust the width as needed */
+  max-width: 300px; /* Limit the maximum width */
   border-radius: 10px;
 }
 
@@ -26,6 +27,7 @@ button {
   color: #fff;
   border: none;
   border-radius: 5px;
+  margin: 10px; /* Add some margin */
 }
 
 #yesButton {
@@ -46,4 +48,15 @@ button {
 
 #responseMessage {
   margin-top: 20px;
+}
+
+/* Media Query for iPhones */
+@media screen and (max-width: 600px) {
+  .valentine-image {
+    width: 90%; /* Adjust the width for smaller screens */
+  }
+
+  button {
+    font-size: 14px; /* Decrease font size for smaller screens */
+  }
 }
